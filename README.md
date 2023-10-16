@@ -1,5 +1,5 @@
 # 2048-game-in-c
-# 2048-game-in-c
+
 An implementation of the 2048 game in c. 
 
 To clone the master branch use the git command **git clone -b master https://github.com/sahasubhajit/2048-game-in-c.git**
