@@ -5,3 +5,5 @@ Install **ncurses** library in ubuntu by the sudo command **sudo apt-get install
 
 Run the command **gcc -o 2048_game 2048_game.c manual.c -lncurses** to create binary file **2048_game**.
 
+Check the master branch also.
+
