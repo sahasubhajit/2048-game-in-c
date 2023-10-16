@@ -2,6 +2,7 @@
 #include <ncurses.h>
 #include "manual.h"
 
+
 void display2048Manual() {
     printw("2048 Game Manual\n");
     printw("========================================\n\n");
