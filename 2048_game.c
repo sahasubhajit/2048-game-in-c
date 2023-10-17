@@ -272,7 +272,7 @@ void main()
                 {
                 srand(time(NULL));   
                 r = rand()%16;  
-                while (board[r/4][r%4] != 0) //randomly select a space to add 2 or 4
+                while (board[r/4][r%4] != 0) //randomly select a space to add 2
                 {
                     r = rand()%16;  
                 }
@@ -290,7 +290,7 @@ void main()
                 {
                 srand(time(NULL));   
                 r = rand()%16;  
-                while (board[r/4][r%4] != 0)  //randomly select a space to add 2 or 4
+                while (board[r/4][r%4] != 0)  //randomly select a space to add 2
                 {
                     r = rand()%16;  
                 }
@@ -308,7 +308,7 @@ void main()
                 {
                 srand(time(NULL));   
                 r = rand()%16;  
-                while (board[r/4][r%4] != 0)  //randomly select a space to add 2 or 4
+                while (board[r/4][r%4] != 0)  //randomly select a space to add 2
                 {
                     r = rand()%16;  
                 }
@@ -326,7 +326,7 @@ void main()
                 {
                 srand(time(NULL));   
                 r = rand()%16;  
-                while (board[r/4][r%4] != 0)   //randomly select a space to add 2 or 4
+                while (board[r/4][r%4] != 0)   //randomly select a space to add 2
                 {
                     r = rand()%16;  
                 }
