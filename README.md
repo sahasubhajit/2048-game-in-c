@@ -1,5 +1,5 @@
 # 2048-game-in-c
-An implementation of the 2048 game in c. 
+An implementation of the 2048 game in c (with the collaboration of [Sankar Narayn Mishra](https://www.linkedin.com/in/sankarmisra90/?originalSubdomain=in)). 
 
 Install **ncurses** library in ubuntu by the sudo command **sudo apt-get install libncurses5-dev**
 
